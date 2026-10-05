@@ -1,10 +1,10 @@
-## 正在部署 SimonRadio
+## 正在部署 SimonRadio 。 。
 
 # 这是什么？
 一个在线影视平台，由 Cloudflare Pages / DigitalPlat 强力搭载~
 
 # 目前状态？
-正常运作，含 20 多个视频源
+正常运作，含 45 个视频源
 
 支持超分，但本人更建议使用小黄鸭
 
