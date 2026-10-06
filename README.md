@@ -1,4 +1,4 @@
-## 正在部署 SimonRadio 。 。
+## SimonRadio | 自用影视平台
 
 # 这是什么？
 一个在线影视平台，由 Cloudflare Pages / DigitalPlat 强力搭载~
