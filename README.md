@@ -14,6 +14,7 @@
 ![UI-preview](UI-preview.png)
 
 ## 传送门
+>> 目前暂未开放注册，若想使用？请联系我
 https://404error.dpdns.org/
 > 无需代理
 
