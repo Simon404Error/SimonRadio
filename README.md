@@ -10,6 +10,9 @@
 - [x] 弹幕源
 - [x] 超分辨率
 
+## 主页预览
+![UI-preview](UI-preview.png)
+
 ## 传送门
 https://404error.dpdns.org/
 > 无需代理
